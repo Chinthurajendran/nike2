@@ -1,0 +1,1003 @@
+.left-top-head
+{
+    width: 20%;
+    height: 36px;
+    background-color:#f5f5f5;
+    float: left;
+}
+.Air-jordan-logo
+{
+    width: 24px;
+    height: 24px;
+    padding-top: 5px;
+    padding-left: 34px;
+    cursor: pointer;
+}
+.logo-button
+{
+    margin: 0;
+}
+body
+{
+    margin: 0;
+}
+.Air-jordan-logo:hover
+{
+    opacity: .60;
+}
+.right-top-head
+{
+    width: 100%;
+    height: 36px;
+    background-color:#f5f5f5;
+}
+.top-line
+{
+    position: relative;
+    font-family: "Helvetica Now Text Medium",Helvetica,Arial,sans-serif;
+    font-weight: 500;
+    left: 800px;
+    top: 6px;
+}
+.top-info
+{
+    position: relative;
+    font-family: "Helvetica Now Text Medium",Helvetica,Arial,sans-serif;
+    font-weight: 600;
+    font-size: small;
+    color: rgb(58, 58, 58);
+    margin-left: 10px;
+    margin-right: 10px;
+    left: 800px;
+    top: 6px;
+    
+}
+.top-info:hover
+{
+    opacity: .60;  
+}
+
+.mid-left-head
+{
+    width: 25%;
+    height: 64px;
+    background-color:white;
+    float: left;
+}
+.nike-logo
+{
+    width: 58.85px;
+    height: 20.54px;
+    padding-top: 20px;
+    padding-left: 38px;
+}
+.nike-logo:hover
+{
+    opacity: .60;  
+}
+.mid-center-head
+{
+    width: 50%;
+    height: 64px;
+    background-color:white;
+    float: left;
+}
+.mid-center-head
+{
+    display:flex; 
+    justify-content: center; 
+    align-items: center; 
+}
+.mid-info
+{
+    margin-right: 21px;
+    font-family: "Helvetica Now Text Medium",Helvetica,Arial,sans-serif;
+}
+.mid-info:hover
+{
+    border-bottom: 2px solid black;
+    
+}
+.mid-right-head
+{
+    width: 25%;
+    height: 64px;
+    background-color:white;
+    float: left;
+}
+.search-box
+{
+   position: relative;
+   width: 40px;
+   height: 40px; 
+   border-radius: 50%;
+   left: 13px;
+   top: -28px;
+   background-color: #f5f5f5 ;
+   
+   
+}
+.search-icon
+{
+    position: relative;
+    width: 35px;
+    height: 35px;
+    left: 4px;
+    top: 4px;
+    
+}
+.search-text
+{
+    position: relative;
+    font-family: "Helvetica Now Text Medium",Helvetica,Arial,sans-serif;
+    left: 56px;
+    top: -27px;
+    color: #d5e0e7;
+}
+.Search
+{
+   position: relative;
+   border-radius: 20px;
+   height: 36px;
+   width: 184px;
+   background-color: #f5f5f5 ;
+   left: 12px;
+   top: 12px;
+   border-color: #f5f5f5;
+   border: transparent;
+}
+.Search:hover
+{
+    background-color:#dbd9d9;
+    
+}
+.search-text:hover
+{
+    color: #767676;
+}
+.search-box:hover
+{
+    background-color: #dbd9d9;
+}
+.favorites-logo
+{
+    
+    position: relative;
+    width: 35px;
+    height: 35px;
+    left: 2px;
+    top: 5px;
+    
+}
+.favorites-box
+{
+    position: relative;
+   width: 40px;
+   height: 40px; 
+   border-radius: 50%;
+   left: 230px;
+   top: -69px;
+   background-color: #ffffff; 
+}
+.favorites-box:hover
+{
+    background-color:#dbd9d9;
+}
+.bag-icon
+{
+    position: relative;
+    width: 23px;
+    height: 23px;
+    left: 9px;
+    top: 8px;  
+}
+.bag-box
+{
+    position: relative;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    left: 286px;
+    top: -108px;
+    background-color: white;
+}
+.bag-box:hover
+{
+    background-color:#dbd9d9;
+}
+.top-bottom-head
+{
+width: 100%;
+height: 29px;
+background-color: #f5f5f5;
+float: left;
+ display:flex; 
+    justify-content: center; 
+    align-items: center; 
+}
+.bottom-bottom-head
+{
+width: 100%;
+height: 29px;
+background-color: #f5f5f5;
+float: left;
+ display:flex; 
+    justify-content: center; 
+    align-items: center; 
+}
+.text-top-bottom-head
+{
+    font-family: "Helvetica Now Text Medium",Helvetica,Arial,sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    padding-top: 11px;
+}
+.text-bottom-bottom-head
+{
+    position: relative;
+    font-family:"Helvetica Now Text Medium",Helvetica,Arial,sans-serif;
+    font-weight: 600;
+    font-size: 12px;
+    top: -5px;
+}
+.ad-vidieo
+{
+    margin-top: 20px;
+     padding-left: 58px;
+     float: left;
+}
+.nike-poster
+{
+    width: 1377px;
+    height: 746.99px;
+    margin-top: 53px;
+    padding-left: 16px;
+}
+figcaption
+{
+    font-family:"Helvetica Now Text Medium",Helvetica,Arial,sans-serif; 
+    font-size: 76px;
+    margin-top: 50px;
+    display:flex; 
+    justify-content: center; 
+    align-items: center; 
+    
+}
+.text-quotes
+{
+    font-family:"Helvetica Now Text Medium",Helvetica,Arial,sans-serif; 
+    font-size: 17px;
+    margin-top: 20px;
+    display:flex;   
+    justify-content: center; 
+    align-items: center;    
+}
+.shop-button
+{
+    display:flex;   
+    justify-content: center; 
+    align-items: center;     
+}
+.shopping-button
+{
+ border-radius: 30px;  
+ width: 80.68px;
+ height: 37.6px; 
+ font-family:"Helvetica Now Text Medium",Helvetica,Arial,sans-serif; 
+ background-color: black;
+ color: white;
+ margin-top: 35px;
+ border: transparent;
+ font-size: 15px;
+}
+.shopping-button:hover
+{
+    background-color:  #7e7e80 ;
+}
+.Explore-button
+{
+ border-radius: 30px;  
+ width: 99.14px;
+ height: 37.6px; 
+ font-family:"Helvetica Now Text Medium",Helvetica,Arial,sans-serif; 
+ background-color: black;
+ color: white;
+ margin-top: 35px;
+ margin-left: 15px;
+ float: left;
+ border: transparent;
+ font-size: 15px;
+ 
+}
+.Explore-button:hover
+{
+    background-color:  #7e7e80 ;
+}
+.options
+{
+    width: 100%;
+    height: 142px;
+
+}
+.Featured
+{
+    position: relative;
+    font-family:"Helvetica Now Text Medium",Helvetica,Arial,sans-serif; 
+    color: black;  
+    font-size: 24px;
+    font-weight: 500; 
+    bottom: -115px;
+    padding-left: 50px;
+}
+.shop
+{
+    position: relative;
+    font-family:"Helvetica Now Text Medium",Helvetica,Arial,sans-serif; 
+    color: black;  
+    font-size: 24px;
+    font-weight: 500; 
+    bottom: -115px;
+    padding-left: 1216px; 
+   
+}
+.shop:hover
+{
+    opacity: .60;
+}
+.Featured-poster
+{
+    width: 468.49px;
+    height: 653.59px;
+    float: left;
+
+}
+.Featured-one
+{
+    width: 420px;
+    height: 653.59px;
+    margin-left:7px;
+    margin-top: 15px;
+    
+}
+fistfigcaption
+{
+    position: relative;
+    font-family:"Helvetica Now Text Medium",Helvetica,Arial,sans-serif; 
+    color: black;  
+    font-size: 20px;
+    margin-left:5px;
+    top: 30px;
+}
+.Accessories
+{
+    width: 468.49px;
+    height: 654.54px;
+    float: left;
+  
+}
+.Featured-second
+{
+    width: 420px;
+    height: 653.59px;
+    margin-top: 15px;
+    margin-left: 15px;
+}
+secondfigcaption
+{
+    position: relative;
+    font-family:"Helvetica Now Text Medium",Helvetica,Arial,sans-serif; 
+    color: black;  
+    font-size: 20px;
+    font-weight: 500;   
+    margin-left: 15px;
+    top: 30px;
+}
+.Matching Sets
+{
+    width: 468.49px;
+    height: 654.54px;
+    float: left;
+  
+}
+.Featured-thrid
+{
+    width: 420px;
+    height: 653.59px;
+    margin-top: 15px;
+    margin-left: 65px;
+}
+thridfigcaption
+{
+    position: relative;
+    font-family:"Helvetica Now Text Medium",Helvetica,Arial,sans-serif; 
+    color: black;  
+    font-size: 20px;
+    font-weight: 500;   
+    margin-left: 968px;
+    top: 30px;
+}
+.Trending-section
+{
+    width: 100%;
+    height: 130px;
+    float: left;
+}
+.Trending
+{
+    position: relative;
+    font-family:"Helvetica Now Text Medium",Helvetica,Arial,sans-serif; 
+    color: black;  
+    font-size: 24px;
+    font-weight: 500; 
+    bottom: -110px;
+    padding-left: 50px;
+    
+}
+.Trending-one
+{
+    width: 705.6px;
+    height: 700px;
+    float: left;
+    
+}
+.Trending-one-image
+{
+    width: 690px;
+    height: 700px;
+    margin-left: 44px; 
+    margin-top: 40px;  
+}
+.Trending-second
+{
+    width: 705.6px;
+    height: 700px;
+    float: left;
+
+   
+}
+.Trending-second-image
+{
+    width: 690px;
+    height: 700px; 
+    margin-left: 40px; 
+    margin-top: 40px;
+}
+.text-info-one
+{
+    position: relative;
+    font-family:"Helvetica Now Text Medium",Helvetica,Arial,sans-serif; 
+    color: white;  
+    font-size: 16px;
+    font-weight: 600;  
+    font-stretch: 100%; 
+    padding-left: 100px;
+    top: -179px;
+   
+    
+}
+.text-info-second
+{
+    position: relative;
+    font-family:"Helvetica Now Text Medium",Helvetica,Arial,sans-serif; 
+    color: white;  
+    font-size: 20px;
+    font-weight: 600;  
+    font-stretch: 100%;
+    padding-left: 96px;
+    top: -170px;
+    
+}
+.Trending-shop-button
+{
+    position: relative;
+    width: 82px;
+    height: 40px;
+    font-family:"Helvetica Now Text Medium",Helvetica,Arial,sans-serif; 
+    font-size: 16px;
+    font-weight: 600;  
+    top: -140px;
+    left: 90px;
+    border-radius: 30px;
+    border-color: transparent;
+}
+.Trending-shop-button:hover
+{
+    background-color:  #7e7e80 ;
+}
+.nike-pegasus
+{
+    width:100%;
+    height: 400px;
+    float: left;
+}
+.nike-text
+{
+    font-family:"Helvetica Now Text Medium",Helvetica,Arial,sans-serif; 
+    font-size: 76px;
+    margin-top: 90px;
+    font-weight: 700;
+    text-align: center;
+}   
+.nike-second-text
+{
+    font-family:"Helvetica Now Text Medium",Helvetica,Arial,sans-serif; 
+    font-size: 16px;
+    margin-top: 25px;
+    text-align: center;
+}   
+.nikr-shop-button
+{
+    width: 82px;
+    height: 40px;
+    font-family:"Helvetica Now Text Medium",Helvetica,Arial,sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    border-radius: 30px;
+    border-color: transparent;
+    margin-left: 50%;
+    margin-top: 35px;
+    background-color: black;
+    color: white;
+    margin-bottom: 126px;
+}
+.nikr-shop-button:hover
+{
+    opacity: .60;
+}
+.Running-Shoes
+{
+    width: 100%;
+    height: 25px;
+    margin-top: 20px;
+    margin-bottom: 7px;
+    float: left;
+}
+.shoes-selection
+{
+    position: relative;
+    font-family: "Helvetica Now Text Medium",Helvetica,Arial,sans-serif;
+    color: black;
+    font-size: 24px;
+    font-weight: 500;
+    bottom: -20px;
+    padding-left: 51px;
+    float: left;
+}
+.The-Latest-Shoes
+{
+    width: 100%;
+    height: 70px;
+    float: left;
+}
+.The-Latest
+{
+    position: relative;
+    font-family: "Helvetica Now Text Medium",Helvetica,Arial,sans-serif;
+    color: black;
+    font-size: 24px;
+    font-weight: 500;
+    bottom: -50px;
+    padding-left: 60px;
+}
+.speed
+{
+    font-family: "Helvetica Now Text Medium",Helvetica,Arial,sans-serif;
+    font-size: 76px;
+    margin-top: 20px;
+    font-weight: 700;
+    display:flex;   
+    justify-content: center; 
+    align-items: center;  
+}
+.nike-poster-just
+{
+    width: 1400px;
+    height: 746.99px;
+    margin-top: 53px;
+    padding-left:50px;
+}
+.Do-Miss
+{
+    width: 100%;
+    height: 80px;
+}
+.do-miss-test
+{
+    position: relative;
+    font-family: "Helvetica Now Text Medium",Helvetica,Arial,sans-serif;
+    color: black;
+    font-size: 24px;
+    font-weight: 500;
+    bottom: -50px;
+    padding-left: 60px;
+}
+.speed-jest-do-it
+{
+    position: relative;
+    font-family: "Helvetica Now Text Medium",Helvetica,Arial,sans-serif;
+    color: black;
+    font-size: 17px;
+    font-weight: 500;
+    display:flex;   
+    justify-content: center; 
+    align-items: center; 
+    bottom: -25px;
+}
+.text-quotes-level-up-first
+{
+    font-family: "Helvetica Now Text Medium",Helvetica,Arial,sans-serif;
+    font-size: 17px;
+    margin-top: 20px;
+    text-align: center;
+    display:flex;   
+    justify-content: center; 
+    align-items: center; 
+}
+.text-quotes-level-up-second
+{
+    font-family: "Helvetica Now Text Medium",Helvetica,Arial,sans-serif;
+    font-size: 17px;
+    margin-top: -15px;
+    text-align: center;
+    display:flex;   
+    justify-content: center; 
+    align-items: center; 
+}
+.The-Essentials
+{
+    width: 100%;
+    height: 80px;   
+}
+.The-Essentials-shoes-first
+{
+    width: 440px;
+    height: 540px;
+    margin-left: 50px;
+    margin-top: 30px;
+    float: left;
+}
+.The-Essentials-shoes-second
+{
+    width: 440px;
+    height: 540px;
+    margin-left: 40px;
+    margin-top: 30px;
+    float: left;
+}
+.The-Essentials-shoes-third
+{
+    width: 440px;
+    height: 540px;
+    margin-left: 40px;
+    margin-right: 50px;
+    margin-top: 30px;
+    float: left;
+}
+.mens-button
+{
+    position: relative;
+    border-radius: 30px;
+    width: 80.68px;
+    height: 37.6px;
+    font-family: "Helvetica Now Text Medium",Helvetica,Arial,sans-serif;
+    background-color:white;
+    color:black;
+    border: transparent;
+    font-size: 15px;
+    top: -136px;
+    left: 100px;
+}
+.womens-button
+{
+    position: relative;
+    border-radius: 30px;
+    width: 87.68px;
+    height: 37.6px;
+    font-family: "Helvetica Now Text Medium",Helvetica,Arial,sans-serif;
+    background-color:white;
+    color:black;
+    border: transparent;
+    font-size: 15px;
+    top: -172px;
+    left: 576px;
+}
+.kids-button
+{
+    position: relative;
+    border-radius: 30px;
+    width: 80.68px;
+    height: 37.6px;
+    font-family: "Helvetica Now Text Medium",Helvetica,Arial,sans-serif;
+    background-color:white;
+    color:black;
+    border: transparent;
+    font-size: 15px;
+    top: -210px;
+    left: 1048px;
+}
+.mens-button:hover
+{
+    background-color:  #7e7e80 ;  
+}
+.womens-button:hover
+{
+    background-color:  #7e7e80 ;  
+}
+.kids-button:hover
+{
+    background-color:  #7e7e80 ;  
+}
+.Table
+{
+    position:relative;
+    font-family: "Helvetica Now Text Medium",Helvetica,Arial,sans-serif;
+    font-size: 15px;
+    text-align: left;
+    margin-left: auto;
+    margin-right: auto;
+    left: 293px;
+    top: -57px;
+}
+
+  th, td {
+    padding-top: 14px;
+    padding-bottom: 3px;
+    padding-left: 90px;
+    padding-right: 15px;
+  }
+.Table
+{
+    display: table-cell;
+    vertical-align: middle;
+}
+.row
+{
+    color:  #707e8f ;
+}
+.row:hover
+{
+    color:black;
+}
+.bottom
+{
+    width: 1519px;
+    height: 374px;
+    background-color: black;
+    float: left;
+}
+.store-info
+{
+    position: relative;
+    width: 250px;
+    height: 50px;
+    top: 48px;
+    left: 73px;
+    line-height: 2.333333333333333;
+    float: left;
+}
+.help-info
+{
+    position: relative;
+    width: 250px;
+    height: 250px;
+    top: 35px;
+    left: 66px;
+    line-height: 2.333333333333333;
+    float: left;
+}
+ul,li
+{
+    list-style: none;
+}
+
+.about-info
+{
+    position: relative;
+    width: 250px;
+    height: 250px;
+    top: -202px;
+    left: 633px;
+    line-height: 2.333333333333333;
+   
+   
+}
+.text-font-one
+{
+    font-family: Nike TG,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-weight: 600;
+    font-size: 14px;
+    color: white;
+
+}
+.text-font-two
+{
+    font-family: "Helvetica Now Text Medium",Helvetica,Arial,sans-serif; 
+    font-size: 13px;
+    color:#7e7e7e ;
+}
+.text-font-two:hover
+{
+    color: white;
+}
+.social-media
+{
+    width: 12px;
+    height: 50px;
+    float: left;
+}
+.instagram
+{
+    position: relative;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    top: -209px;
+    left: 1400px;
+    background-color:  #7e7e7e ;
+}
+.instagram:hover
+{
+    background-color: white;
+}
+.instagram-icon
+{
+    position: relative;
+    height: 18px;
+    width: 18px;
+    top: 6px;
+    left: 6px;
+}
+.youtube
+{
+    position: relative;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    top: -236px;
+    left: 1355px;
+    background-color:  #7e7e7e ;
+}
+.youtube:hover
+{
+    background-color: white;
+}
+.youtube-icon
+{
+    position: relative;
+    height: 25px;
+    width: 25px;
+    top: 3px;
+    left: 3px;
+}
+.facebook
+{
+    position: relative;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    top:-269px;
+    left: 1310px;
+    background-color:  #7e7e7e ;
+}
+.facebook:hover
+{
+    background-color: white;
+}
+.facebook-icon
+{
+    position: relative;
+    height: 40px;
+    width: 40px;
+    top: -4px;
+    left: -5px;
+}
+.tiwtter
+{
+    position: relative;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    top: -299px;
+    left: 1266px;
+     background-color:  #7e7e7e ;
+}
+.tiwtter:hover
+{
+    background-color: white;
+}
+.tiwtter-icon
+{
+    position: relative;
+    height: 22px;
+    width: 22px;
+    top: 5px;
+    left: 5px;
+}
+.location
+{
+    position: relative;
+    width: 15px;
+height: 15px;
+top: 85px;
+    left: 66px;
+}
+.country
+{
+    position: relative;
+    height: 1px;
+    top: 85px;
+    left: 66px;
+    font-size: 12px;
+    color: wheat;
+    font-family: "Helvetica Now Text Medium",Helvetica,Arial,sans-serif;
+}
+.Rights-Reserved
+{
+    position: relative;
+    height: 1px;
+    top: 85px;
+    left: 78px;
+    font-size: 12px;
+    color:#7e7e7e ;
+    font-family: "Helvetica Now Text Medium",Helvetica,Arial,sans-serif;
+}
+
+.nike-terms-one
+{
+    position: relative;
+    top: 68px;
+    left: 1043px;
+    font-size: 12px;
+    color:#7e7e7e ;
+    font-family: "Helvetica Now Text Medium",Helvetica,Arial,sans-serif;
+}
+.nike-terms-two
+{
+    position: relative;
+    top:68px;
+    left: 1068px;
+    font-size: 12px;
+    color:#7e7e7e ;
+    font-family: "Helvetica Now Text Medium",Helvetica,Arial,sans-serif;
+}
+.nike-terms-three
+{
+    position: relative;
+    top: 68px;
+    left: 1089px;
+    font-size: 12px;
+    color:#7e7e7e ;
+    font-family: "Helvetica Now Text Medium",Helvetica,Arial,sans-serif;
+}
+.nike-terms-four
+{
+    position: relative;
+    top: 68px;
+    left: 1116px;
+    font-size: 12px;
+    color:#7e7e7e;
+    font-family: "Helvetica Now Text Medium",Helvetica,Arial,sans-serif;
+}
+.nike-terms-one:hover
+{
+    color: white;
+}
+.nike-terms-two:hover
+{
+    color: white;
+}
+.nike-terms-three:hover
+{
+    color: white;
+}
+.nike-terms-four:hover
+{
+    color: white;
+}
+body, html {
+    border: 0;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
